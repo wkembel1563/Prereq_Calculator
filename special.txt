@@ -1,0 +1,7 @@
+Special case: No course has any prerequisite 
+Why: Any sort order is valid. 
+
+CSE1000
+CSE1001
+CSE1002
+CSE1003
